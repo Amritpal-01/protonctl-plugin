@@ -1,0 +1,18 @@
+{
+    "KPlugin": {
+        "Name": "Proton VPN Quick Toggle",
+        "Description": "Simple Proton VPN controller widget for taskbar",
+        "Icon": "network-vpn",
+        "Id": "org.kde.protonvpn-compact",
+        "Category": "Utilities",
+        "Authors": [
+            {
+                "Name": "Amritpal Singh"
+            }
+        ],
+        "Version": "1.4.2",
+        "License": "GPL-2.0-or-later"
+    },
+    "KPackageStructure": "Plasma/Applet",
+    "X-Plasma-API-Minimum-Version": "6.0"
+}
